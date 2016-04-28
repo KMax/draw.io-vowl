@@ -8,7 +8,7 @@
 
 * Open draw.io in your browser
 * Go to File -> Open Library from -> URL...
-* Put the url of the VOWL file.
+* Put the [url](https://raw.githubusercontent.com/KMax/draw.io-vowl/master/VOWL) of the VOWL file.
 
 In the end you should see a new library called "VOWL" in the left sidebar.
 
