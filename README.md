@@ -8,9 +8,9 @@
 
 * Open draw.io in your browser
 * Go to File -> Open Library from -> URL...
-* Put the url of the VOWL.xml.
+* Put the url of the VOWL file.
 
-In the end you should see a new library in the left sidebar.
+In the end you should see a new library called "VOWL" in the left sidebar.
 
 ## License
 
